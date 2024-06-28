@@ -8,6 +8,7 @@ export default function Home() {
         Hello
         
         <Link href='/data' className="hover:text-red-500">Click here</Link>
+        <Link href='/user'>Redirect</Link>
     </div>
        
     </>

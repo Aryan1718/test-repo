@@ -3,7 +3,7 @@ import { NextRequest,NextResponse } from "next/server";
 const userData = [
     {
         "user_id": "12345",
-        "username": "johndoe",
+        "username": "aryan",
         "email": "johndoe@example.com",
         "created_at": "2023-06-01T12:34:56Z",
         "profile": {
